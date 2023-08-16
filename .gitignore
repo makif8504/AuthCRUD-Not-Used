@@ -1,0 +1,8 @@
+DS_store
+.DS_store
+bin/
+**/bin
+
+**/bin/
+**/obj
+**/obj/
